@@ -13,7 +13,7 @@ Copy and paste the following code.
 
 Change the value of the SRC tag and the content of the para tag.
   
-Type the following command in the git terminal 
+  Type the following command in the git terminal 
 
 ```
 git add .
@@ -24,7 +24,7 @@ git push
 If you get an error
 > ! [rejected]        master -> master (fetch first)
 
-Then use 
+Then use:- 
 ```
 git pull
 git push
